@@ -1,6 +1,10 @@
 
 
-# Primeiro Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> 
+# Primeiro Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50"/> <img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logo-dio.png?raw=true" alt="dio" width="60" height="50"/>
+
+
+           
+          
 <br>
 <br>
 
@@ -11,7 +15,8 @@
 
 
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.1.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.1. <br>
+Projeto realizado na Live Coding - Primeiros passos com Angular - Professor Tavares da [Digital Innovation One](https://web.dio.me/home)
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
 
